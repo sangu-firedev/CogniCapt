@@ -1,2 +1,2 @@
 # CogniCapt
-AI image captioning system. It uses CNN and RNN models to regenerate a caption for a given image by user.
+AI image captioning system. It uses DeepLearning to generate a caption for a given image by user.
